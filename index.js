@@ -4,5 +4,3 @@ function updateObjectWithKeyAndValue(recipe, key, value){
   recipe[key] = value
   return recipe
 }
-
-function up
